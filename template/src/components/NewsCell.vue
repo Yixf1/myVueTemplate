@@ -9,7 +9,7 @@
         </section>
         <section class="Cright">
           <img src="./../assets/icon/clock.png" style="width:0.2rem;height:0.2rem;">
-          <span>{{newsDate.date | getYMD}}</span>
+          <span>{{newsDate.date}}</span>
         </section>
         <div style="clear: both"></div>
       </aside>
